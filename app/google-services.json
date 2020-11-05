@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "119922985416",
+    "firebase_url": "https://movies-1247a.firebaseio.com",
+    "project_id": "movies-1247a",
+    "storage_bucket": "movies-1247a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119922985416:android:c838d1589704a3190058fd",
+        "android_client_info": {
+          "package_name": "au.edu.swin.cos20015.movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119922985416-fush6eavgdu4djve7cjbq1sj4iudml4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx7qDUTJ197uE9s2OFW2JyZjYbyZv8mVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119922985416-fush6eavgdu4djve7cjbq1sj4iudml4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

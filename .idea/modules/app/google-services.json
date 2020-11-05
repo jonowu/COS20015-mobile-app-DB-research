@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "374563117047",
+    "firebase_url": "https://emojinary-app.firebaseio.com",
+    "project_id": "emojinary-app",
+    "storage_bucket": "emojinary-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374563117047:android:1b1e4f52b2ec5683fa80f2",
+        "android_client_info": {
+          "package_name": "au.edu.swin.sdmd.emojinary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374563117047-94espee9frpd0mnk95p0hv5h83p2eb9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "au.edu.swin.sdmd.emojinary",
+            "certificate_hash": "654467a322a67b579a2b4ead3e8e5a427c2b763e"
+          }
+        },
+        {
+          "client_id": "374563117047-le8u6ao8crjqckdlkv57hnbc10lcj1st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL9Ez1AHeJgPcmdfRaPjywQUJxfLvI-Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374563117047-le8u6ao8crjqckdlkv57hnbc10lcj1st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
